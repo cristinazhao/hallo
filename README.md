@@ -1,4 +1,4 @@
-READ ME file
+#READ ME file
 bla balh
 
 hehhe
@@ -9,3 +9,5 @@ boihoihoivsodihv
 bsbtt
 
 more balh text
+#Purpose
+idk
